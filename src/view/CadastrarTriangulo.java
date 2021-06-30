@@ -8,6 +8,6 @@ public class CadastrarTriangulo implements IRenderizavel{
 
     @Override
     public void renderizar() {
-        System.out.println( "Triângulo cadastrado ! " );
+        System.out.println( "Triângulo foi cadastrado !! " );
     }
 }
