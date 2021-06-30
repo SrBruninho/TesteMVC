@@ -8,6 +8,6 @@ public class CadastrarRetangulo implements IRenderizavel{
 
     @Override
     public void renderizar() {
-        System.out.println( "Retângulo cadastrado ! " );
+        System.out.println( "Retângulo foi cadastrado !! " );
     }
 }
