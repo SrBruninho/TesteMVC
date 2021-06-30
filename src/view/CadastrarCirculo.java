@@ -8,7 +8,7 @@ public class CadastrarCirculo implements IRenderizavel{
 
     @Override
     public void renderizar() {
-        System.out.println( "Círculo cadastrado ! " );
+        System.out.println( "Círculo foi cadastrado !! " );
 
     }
 }

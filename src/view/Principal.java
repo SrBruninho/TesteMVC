@@ -39,8 +39,6 @@ public class Principal {
 
                 formaController.cadastrar( retangulo );
                 cadastrarRetangulo.renderizar();
-                listarRetangulos.renderizar();
-
                 break;
             case 2:
                 break;
