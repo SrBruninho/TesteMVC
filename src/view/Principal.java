@@ -17,8 +17,6 @@ public class Principal {
 
         System.out.println("---------MENU---------");
         System.out.println("1 - Cadastrar Retângulo");
-        System.out.println("2 - Cadastrar Triângulo");
-        System.out.println("3 - Cadastrar Círculo");
         System.out.println("4 - Listar todos");
         System.out.println("5 - Listar Retângulo");
         System.out.println("6 - Listar Triângulo");
@@ -39,10 +37,6 @@ public class Principal {
 
                 formaController.cadastrar( retangulo );
                 cadastrarRetangulo.renderizar();
-                break;
-            case 2:
-                break;
-            case 3:
                 break;
             case 4:
                 formaController.listar();
